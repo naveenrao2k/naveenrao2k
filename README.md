@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveenrao2k
 - 👀 I’m interested in Android & Web Devlopment
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me me@naveenrao.com
 
